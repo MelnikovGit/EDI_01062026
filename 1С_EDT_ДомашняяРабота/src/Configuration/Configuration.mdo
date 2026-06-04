@@ -1224,6 +1224,7 @@
   <catalogs>Catalog.дм_ДоставкаПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.НоменклатураДва</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
