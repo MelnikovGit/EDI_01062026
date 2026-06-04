@@ -14,5 +14,7 @@
   <content>Catalog.Организации</content>
   <content>Catalog.Должности</content>
   <content>Catalog.КонтактныеЛица</content>
+  <content>Catalog.НоменклатураДва</content>
+  <content>Catalog.Производители</content>
   <parentSubsystem>Subsystem.ПокупкиИПродажи</parentSubsystem>
 </mdclass:Subsystem>
