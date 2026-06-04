@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a62942af-9291-4ba1-9cb6-197dc6aefa17">
+  <producedTypes>
+    <objectType typeId="8d8c0087-1138-4880-bc72-e7671fe756e4" valueTypeId="8038b896-1f30-4d05-840a-670a57fcb6dd"/>
+    <managerType typeId="1c395612-8cbf-49f0-9e0a-93ec82fc3f98" valueTypeId="099c0f14-5b46-41fb-a542-1a5b37094622"/>
+  </producedTypes>
+  <name>РаботаСПрограммнымИнтерфейсом</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с программным интерфейсом</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.РаботаСПрограммнымИнтерфейсом.Form.Форма</defaultForm>
+  <attributes uuid="f6ed2ab4-740f-4482-b97a-096e7591ee60">
+    <name>Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комментарий</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>250</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="f82ad660-fda1-4003-b313-78571886727a">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
